@@ -1,0 +1,22 @@
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.deps.json
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.runtimeconfig.json
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.runtimeconfig.dev.json
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.dll
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.pdb
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.csprojAssemblyReference.cache
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.csproj.CoreCompileInputs.cache
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.AssemblyInfoInputs.cache
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.AssemblyInfo.cs
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.dll
+C:\Users\Solange\source\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.pdb
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.deps.json
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.runtimeconfig.json
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.runtimeconfig.dev.json
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.dll
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\bin\Debug\netcoreapp2.1\AtividadeSâmelaSara.pdb
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.csprojAssemblyReference.cache
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.csproj.CoreCompileInputs.cache
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.AssemblyInfoInputs.cache
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.AssemblyInfo.cs
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.dll
+C:\Users\Solange\Documents\Enviar Domingo\repos\AtividadeSâmelaSara\AtividadeSâmelaSara\obj\Debug\netcoreapp2.1\AtividadeSâmelaSara.pdb
