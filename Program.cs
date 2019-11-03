@@ -58,7 +58,7 @@ namespace AtividadeSâmelaSara
         }
     }
 }
-
+//Resposta da questõ três: o y está na posição 0 e o x vai se deslocar para -1 que quer dizer que irá deslocar-se para esquerda.
     
 
 
